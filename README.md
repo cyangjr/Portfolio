@@ -25,11 +25,13 @@ Hey, I'm Chang Yang, a current senior at Eden Prairie High School and a developm
 
 ### Aero Clash
 
-![alt text](https://github.com/ZeoShadow/Portfolio/blob/main/aeroclash.png | width = 300)
+![alt text](https://github.com/ZeoShadow/Portfolio/blob/main/aeroclash.png)
 
 ### Find My EP
 
 ![alt text](https://github.com/ZeoShadow/Portfolio/blob/main/FindMyEP.png)
+
+<img src="https://github.com/ZeoShadow/Portfolio/raw/main/FindMyEP.png" width="321" height="695" />
 
 
 
