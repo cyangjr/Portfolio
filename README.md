@@ -29,8 +29,6 @@ Hey, I'm Chang Yang, a current senior at Eden Prairie High School and a developm
 
 ### Find My EP
 
-![alt text](https://github.com/ZeoShadow/Portfolio/blob/main/FindMyEP.png)
-
 <img src="https://github.com/ZeoShadow/Portfolio/raw/main/FindMyEP.png" width="321" height="695" />
 
 
