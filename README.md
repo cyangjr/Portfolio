@@ -19,10 +19,16 @@ Hey, I'm Chang Yang, a current senior at Eden Prairie High School and a developm
 
 ## Java
 
+### Minesweeper
+
 ## Swift/SpriteKit/UIKit
 
 ### Aero Clash
 
 ![alt text](https://github.com/ZeoShadow/Portfolio/blob/main/aeroclash.png)
+
+### Find My EP
+
+
 
 
