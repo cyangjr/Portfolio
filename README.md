@@ -33,7 +33,7 @@ I wanted to create a resourceful app that would help incoming freshmans and tran
 
 During the first semester of Advanced iOS, we started on building the foundations of the app, a GPS. This would require a designated school map and a pathfinder from one point to another. 
 <p float="left">
-<img src="/ZeoShadow/Portfolio/blob/main/findmyephome.png?raw=true" width="321" height="695" />
+<img src="https://github.com/ZeoShadow/Portfolio/blob/main/findmyephome.png" width="321" height="695" />
 <img src="https://github.com/ZeoShadow/Portfolio/raw/main/FindMyEP.png" width="321" height="695" />
 </p>
 
