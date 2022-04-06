@@ -11,8 +11,6 @@ Hey, I'm Chang Yang, a current senior at Eden Prairie High School and a developm
 3. MIT App Inventor (2018 -)
 4. Java (2019 -)
 5. SwiftUI (2020 -)
-6. SpriteKit (2021 -)
-7. UIKit (2021 -)
 8. JavaScript (2022 -)
 
 # Projects
