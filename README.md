@@ -25,6 +25,9 @@ Hey, I'm Chang Yang, a current senior at Eden Prairie High School and a developm
 
 ### [Aero Clash](https://github.com/EPHS-iOS/FighterJet.git)
 
+This was my first project during my first semester of iOS App Development. My peers and I were interested in creating an arcade style game that had something to do with an airplane. Hence, we came up with Aero Clash, a fighter jet game where you take down enemy jets to aquire as many points possible to unlock new jets with different power-ups. My first semester was more centered on learning everything about developing and publishing an app on the App Store.  We started off learning the SpriteKit framework as it is essential for any game. Our first major encounter was when it came to merging our codes into a single functional game. Another major roadblock for us was figuring out sensors within our devices. Our game incorporated tilt control instead of the traditional joystick as we wanted to be more interactive. Both of these issues were resolved hastily within a few days of experimenting and researching.
+
+As we progressed in the development of the game, I started shifting towards more of an App Manager role. This meant that I also took on the responsibility of making sure we had certain things finished on time so that we were ready to publish the app by that summer. I worked with a graphic artist to get certain sprites that were neccesary and handled other aspects before publishing such as the website and previews. After many tweaks and bug fixes, the app was eventually approved and published on the App Store. Looking back, it was quite the learning experience. 
 ![alt text](https://github.com/ZeoShadow/Portfolio/blob/main/aeroclash.png)
 
 ### [Find My EP](https://github.com/sarthyparty/Find-My-EP.git)
