@@ -33,7 +33,7 @@ As we progressed in the development of the game, I started shifting towards more
 
 I wanted to create a resourceful app that would help incoming freshmans and transfer students nagivate their way throughout EPHS. Our school consist of several floors and countless hallways that would easily have people lost. I could recall students asking teachers on several occasions just to get from one class to another. Together with a few peers, we decided to develop an app that would serve to help those students navigate alongside announcements and other handy features. 
 
-During the first semester of Advanced iOS, we started on building the foundations of the app, a GPS. This would require a designated school map and a pathfinder from one point to another. 
+During the first semester of Advanced iOS, we started on building the foundations of the app, a GPS. As a developer, I mainly worked on UI debugging and design. As an App Manager, I keep my peers in check and make sure that we are consistently pushing updates and debugging issues that pop up along the way. I mostly worked on getting the dropdown search menu to function properly and transitioned to mapping out points on the floor plan.
 <p float="left">
 <img src="https://github.com/ZeoShadow/Portfolio/blob/main/findmyephome.png" width="321" height="695" />
 <img src="https://github.com/ZeoShadow/Portfolio/raw/main/FindMyEP.png" width="321" height="695" />
