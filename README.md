@@ -35,9 +35,9 @@ I wanted to create a resourceful app that would help incoming freshmans and tran
 
 During the first semester of Advanced iOS, we started on building the foundations of the app, a GPS. As a developer, I mainly worked on UI debugging and design. As an App Manager, I keep my peers in check and make sure that we are consistently pushing updates and debugging issues that pop up along the way. I mostly worked on getting the dropdown search menu to function properly and transitioned to mapping out points on the floor plan.
 <p float="left">
-<img src="https://github.com/ZeoShadow/Portfolio/blob/main/findmyephome.png" width="133" />
-<img src="https://github.com/ZeoShadow/Portfolio/raw/main/FindMyEP.png" width="133" />
-<img src="https://github.com/ZeoShadow/Portfolio/blob/main/FindMyEPDropdown.png" width="133" />
+<img src="https://github.com/ZeoShadow/Portfolio/blob/main/findmyephome.png" width="321" />
+<img src="https://github.com/ZeoShadow/Portfolio/raw/main/FindMyEP.png" width="321" />
+<img src="https://github.com/ZeoShadow/Portfolio/blob/main/FindMyEPDropdown.png" width="321" />
 </p>
 
 
