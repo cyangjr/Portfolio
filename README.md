@@ -21,7 +21,7 @@ Hey, I'm Chang Yang, a current senior at Eden Prairie High School and a developm
 
 ## Swift
 
-### [Find My EP](https://github.com/sarthyparty/Find-My-EP.git)
+### [EPHS Maps](https://github.com/sarthyparty/Find-My-EP.git)
 
 I wanted to create a resourceful app that would help incoming freshmans and transfer students nagivate their way throughout EPHS. Our school consist of several floors and countless hallways that would easily have people lost. I could recall students asking teachers on several occasions just to get from one class to another. Together with a few peers, we decided to develop an app that would serve to help those students navigate alongside announcements and other handy features. 
 
