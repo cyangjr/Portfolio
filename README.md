@@ -26,6 +26,8 @@ Hey, I'm Chang Yang, a current senior at Eden Prairie High School and a developm
 I wanted to create a resourceful app that would help incoming freshmans and transfer students nagivate their way throughout EPHS. Our school consist of several floors and countless hallways that would easily have people lost. I could recall students asking teachers on several occasions just to get from one class to another. Together with a few peers, we decided to develop an app that would serve to help those students navigate alongside announcements and other handy features. 
 
 During the first semester of Advanced iOS, we started on building the foundations of the app, a GPS. As a developer, I mainly worked on UI debugging and design. As an App Manager, I keep my peers in check and make sure that we are consistently pushing updates and debugging issues that pop up along the way. I mostly worked on getting the dropdown search menu to function properly and transitioned to mapping out points on the floor plan.
+
+During my second semester of Advanced iOS, we introduced multiple floors, a fully mapped out map, a time estimator, and plenty more optimizations and bug fixes. We also created an initial zoom onto the main route and refreshed the UI. EPHS Maps is now on the App Store. 
 <p float="left">
 <img src="https://github.com/ZeoShadow/Portfolio/blob/main/findmyephome.png" width="272" />
 <img src="https://github.com/ZeoShadow/Portfolio/raw/main/FindMyEP.png" width="272" />
