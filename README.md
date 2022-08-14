@@ -6,9 +6,7 @@ Hey, I'm Chang Yang, a current senior at Eden Prairie High School and a developm
 
 ## Programming Experience
 
-1. Scratch (2015 -)
-2. Python (2016 -)
-3. MIT App Inventor (2018 -)
+
 4. [Java](https://github.com/ZeoShadow/Portfolio#Java) (2019 -)
 5. [Swift](https://github.com/ZeoShadow/Portfolio#Swift) (2020 -)
 8. JavaScript (2022 -)
