@@ -7,9 +7,9 @@ Hey, I'm Chang Yang, a current freshman at Stony Brook University and a former d
 ## Programming Experience
 
 
-4. [Java](https://github.com/ZeoShadow/Portfolio#Java) (2019 -)
-5. [Swift](https://github.com/ZeoShadow/Portfolio#Swift) (2020 -)
-8. JavaScript (2022 -)
+1. [Java](https://github.com/ZeoShadow/Portfolio#Java) (2019 -)
+2. [Swift](https://github.com/ZeoShadow/Portfolio#Swift) (2020 -)
+3. JavaScript (2022 -)
 
 # Projects
 
