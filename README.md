@@ -7,9 +7,12 @@ Hey, I'm Chang Yang, a rising sophomore at Stony Brook University and a former t
 ## Programming Experience
 
 
-1. [Java](https://github.com/ZeoShadow/Portfolio#Java) (2019 -)
-2. [Swift](https://github.com/ZeoShadow/Portfolio#Swift) (2020 -)
-3. JavaScript (2022 -)
+1. [Java](https://github.com/ZeoShadow/Portfolio#Java) 
+2. [Swift](https://github.com/ZeoShadow/Portfolio#Swift) 
+3. JavaScript
+4. Python
+5. SQL
+6. MySQL
 
 # Projects
 
