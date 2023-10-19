@@ -4,7 +4,7 @@
 
 Hey, I'm Chang Yang, a rising sophomore at Stony Brook University and a former technology development intern at Optum/UHG. I've always had a passion for technology and dove deeper into that field ever since middle school. From developing games to coding apps to creating websites, there's an infinite amount of things that can be done and many more that I've yet to explore. Here are showcases of some of the projects I have worked on in the past.
 
-## Programming Experience
+## Programming Languages
 
 
 1. [Java](https://github.com/ZeoShadow/Portfolio#Java) 
